@@ -30,7 +30,7 @@
 
 ## Overview
 
-Exhibit Art is a place for artists to show-case their work and a place for potential buyers to connect with the artists. You can play the deployed site [here](https://leithdm.github.io/milestone-project-3/).
+Exhibit Art is a place for artists to show-case their work and a place for potential buyers to connect with the artists. You can view the deployed site [here](https://leithdm.github.io/milestone-project-3/).
 
 <br/>
 
